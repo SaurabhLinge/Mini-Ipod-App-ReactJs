@@ -81,9 +81,9 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/Mini-Ipod-App-ReactJS)
+> ## Checkout the Website [Web Application]()
 >
-> ## Checkout the Application Demo Video [YouTube](https://youtu.be/XZuMTBohjBU)
+> ## Checkout the Application Demo Video [YouTube]()
 
 <br/>
 
@@ -105,13 +105,12 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
 
-> [Twitter](https://twitter.com/ayush_codes)
+> [Twitter]()
 
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
+> [LinkedIn]()
 
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
+> [YouTube]()
 
 I hope you like the project. Thanks for reading :)
 
